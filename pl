@@ -1,1 +1,0 @@
-/home/bvg/gamelanbvg.com/pl
