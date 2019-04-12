@@ -5,7 +5,7 @@
 /* typography */
 
 p, li, blockquote {
-	font: small/120% "Lucida Grande", Lucida, Verdana, sans-serif;	
+	font: small/120% "Lucida Grande", Lucida, Verdana, sans-serif;
 	color: #633;
 	line-height: 150%
 }
@@ -174,12 +174,12 @@ td.navigation {
 }
 
 #vertmenu ul.event {
-	border-bottom: 1px solid #8a6161;	
+	border-bottom: 1px solid #8a6161;
 }
 
 #vertmenu li.year {
 	background-color: #d2b48c;
-	
+
 }
 
 #vertmenu ul li.event_current {
@@ -238,7 +238,7 @@ td.navigation {
 	border-top: 1px solid #fae4c6;
 	border-bottom: 1px solid #fae4c6;
 	border-left: 1px solid #fae4c6;
-	
+
 }
 
 #vertmenu ul li.event_current {
@@ -250,7 +250,7 @@ td.navigation {
 	border-left: 1px solid #8a6161;
 }
 
-#vertmenu ul li.event a:hover, 
+#vertmenu ul li.event a:hover,
 #vertmenu ul li.event a:focus {
 }
 
@@ -269,7 +269,7 @@ td.navigation {
 	padding: 0;
 	margin-right: 20px;
 	margin-left: 20px;
-	
+
 }
 
 #introduction {
@@ -294,4 +294,12 @@ td.navigation {
 #search {
 	border-top: 1px solid #8a6161;
 	margin: 20px;
+}
+
+a.banner-photo > img {
+	height: 368px;
+}
+
+a.report-photo > img {
+	max-width: 500px;
 }
